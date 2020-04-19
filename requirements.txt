@@ -1,0 +1,7 @@
+matplotlib
+numpy
+scipy
+navis
+h5py
+opencv-python
+imageio

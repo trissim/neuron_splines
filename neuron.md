@@ -30,7 +30,6 @@ from scipy import interpolate
 import matplotlib.pyplot as plt
 import numpy as np
 from scipy import interpolate
-from simplification.cutil import *
 
 ### Basic functions for swc <-> segments <-> points conversions
 get_node = lambda neuron, node_id : neuron.nodes.loc[neuron.nodes['node_id'] == node_id] 
